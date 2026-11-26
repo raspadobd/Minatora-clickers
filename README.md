@@ -3,6 +3,7 @@
 
 
 效果预览：
+
 ![demo gif](<content demo.gif>)
 
 ## 注意：需使用[BUG Clicker](https://github.com/BUG-INVADE/Bug-Clicker-download)，在软件内导入`.cvclk`文件配件才能打开
