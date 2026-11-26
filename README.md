@@ -1,4 +1,4 @@
-# 【🐍🐯 BUG Clicker 桌宠 | Desktop Pet 】#
+# 【🐍🐯 BUG Clicker 桌宠 | Desktop Pet 】
 绘制：X[@\_raspado_](https://x.com/_raspado_) | 工具作者：X[@BUGnDEV](https://x.com/BUGnDEV)
 
 
